@@ -15,7 +15,8 @@
 
 # 1b) Count how many tracks belong to the "Hip Hop/Rap" genre
 
-
+(3.7ms)  SELECT COUNT(*) FROM "tracks" WHERE "tracks"."genre_id" = $1  [["genre_id", 17]]
+35
 
 # 2) Find the total amount of time required to listen to all the tracks in the database.
 
