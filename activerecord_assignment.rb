@@ -6,7 +6,12 @@
 
 # 1a) Find the genre with the name "Hip Hop/Rap".
 
-
+[0] #<Genre:0x007fc790e602f8> {
+               :id => 17,
+             :name => "Hip Hop/Rap",
+       :created_at => Sun, 20 Jan 2013 02:04:31 UTC +00:00,
+       :updated_at => Wed, 29 Jan 2014 22:14:08 UTC +00:00
+   }
 
 # 1b) Count how many tracks belong to the "Hip Hop/Rap" genre
 
